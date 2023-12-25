@@ -1,4 +1,4 @@
-# twenty_four_cal
+# CalAppPrjct
 
 A new Flutter project.
 
